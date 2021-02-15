@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Google Container",
+    "name": "KKU Container",
     "version": "1.5.3",
 
-    "description": "Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.",
+    "description": "KKU Container isolates your KKU activity from the rest of your web activity in order to prevent KKU from tracking you outside of the KKU website via third party cookies.",
 
     "icons": {
         "48": "icon.png",
@@ -12,12 +12,12 @@
 
     "applications": {
       "gecko": {
-        "id": "@contain-google",
+        "id": "@contain-KKU",
         "strict_min_version": "57.0"
       }
     },
 
-    "homepage_url": "https://github.com/containers-everywhere/contain-google",
+    "homepage_url": "https://github.com/wannaphong/contain-KKU",
 
     "permissions": [
         "<all_urls>",
